@@ -1,0 +1,524 @@
+{
+    "data": [
+        {
+            "name": "Bulbasaur",
+            "ability": "Overgrow, Chlorophyll",
+            "height": 7,
+            "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 45
+                },
+                {
+                    "name": "Attack",
+                    "value": 49
+                },
+                {
+                    "name": "Defense",
+                    "value": 49
+                },
+                {
+                    "name": "Speed",
+                    "value": 45
+                }
+            ],
+            "type": "Grass, Poison",
+            "weight": 69
+        },
+        {
+            "name": "Ivysaur",
+            "ability": "Overgrow, Chlorophyll",
+            "height": 10,
+            "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 60
+                },
+                {
+                    "name": "Attack",
+                    "value": 62
+                },
+                {
+                    "name": "Defense",
+                    "value": 63
+                },
+                {
+                    "name": "Speed",
+                    "value": 60
+                }
+            ],
+            "type": "Grass, Poison",
+            "weight": 130
+        },
+        {
+            "name": "Venusaur",
+            "ability": "Overgrow, Chlorophyll",
+            "height": 20,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 80
+                },
+                {
+                    "name": "Attack",
+                    "value": 82
+                },
+                {
+                    "name": "Defense",
+                    "value": 83
+                },
+                {
+                    "name": "Speed",
+                    "value": 80
+                }
+            ],
+            "type": "Grass, Poison",
+            "weight": 1000
+        },
+        {
+            "name": "Charmander",
+            "ability": "Blaze, Solar Power",
+            "height": 6,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 39
+                },
+                {
+                    "name": "Attack",
+                    "value": 52
+                },
+                {
+                    "name": "Defense",
+                    "value": 43
+                },
+                {
+                    "name": "Speed",
+                    "value": 65
+                }
+            ],
+            "type": "Fire",
+            "weight": 85
+        },
+        {
+            "name": "Charmeleon",
+            "ability": "Blaze, Solar Power",
+            "height": 11,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 58
+                },
+                {
+                    "name": "Attack",
+                    "value": 64
+                },
+                {
+                    "name": "Defense",
+                    "value": 58
+                },
+                {
+                    "name": "Speed",
+                    "value": 80
+                }
+            ],
+            "type": "Fire",
+            "weight": 190
+        },
+        {
+            "name": "Charizard",
+            "ability": "Blaze, Solar Power",
+            "height": 16,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 78
+                },
+                {
+                    "name": "Attack",
+                    "value": 84
+                },
+                {
+                    "name": "Defense",
+                    "value": 78
+                },
+                {
+                    "name": "Speed",
+                    "value": 100
+                }
+            ],
+            "type": "Fire, Flying",
+            "weight": 905
+        },
+        {
+            "name": "Squirtle",
+            "ability": "Torrent, Rain Dish",
+            "height": 5,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 44
+                },
+                {
+                    "name": "Attack",
+                    "value": 48
+                },
+                {
+                    "name": "Defense",
+                    "value": 65
+                },
+                {
+                    "name": "Speed",
+                    "value": 43
+                }
+            ],
+            "type": "Water",
+            "weight": 90
+        },
+        {
+            "name": "Wartortle",
+            "ability": "Torrent, Rain Dish",
+            "height": 10,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 59
+                },
+                {
+                    "name": "Attack",
+                    "value": 63
+                },
+                {
+                    "name": "Defense",
+                    "value": 80
+                },
+                {
+                    "name": "Speed",
+                    "value": 58
+                }
+            ],
+            "type": "Water",
+            "weight": 225
+        },
+        {
+            "name": "Blastoise",
+            "ability": "Torrent, Rain Dish",
+            "height": 16,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 79
+                },
+                {
+                    "name": "Attack",
+                    "value": 83
+                },
+                {
+                    "name": "Defense",
+                    "value": 100
+                },
+                {
+                    "name": "Speed",
+                    "value": 78
+                }
+            ],
+            "type": "Water",
+            "weight": 855
+        },
+        {
+            "name": "Caterpie",
+            "ability": "Shield Dust, Run Away",
+            "height": 3,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 45
+                },
+                {
+                    "name": "Attack",
+                    "value": 30
+                },
+                {
+                    "name": "Defense",
+                    "value": 35
+                },
+                {
+                    "name": "Speed",
+                    "value": 45
+                }
+            ],
+            "type": "Bug",
+            "weight": 29
+        },
+        {
+            "name": "Metapod",
+            "ability": "Shed Skin",
+            "height": 7,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 50
+                },
+                {
+                    "name": "Attack",
+                    "value": 20
+                },
+                {
+                    "name": "Defense",
+                    "value": 55
+                },
+                {
+                    "name": "Speed",
+                    "value": 30
+                }
+            ],
+            "type": "Bug",
+            "weight": 99
+        },
+        {
+            "name": "Butterfree",
+            "ability": "Compound Eyes",
+            "height": 11,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 60
+                },
+                {
+                    "name": "Attack",
+                    "value": 45
+                },
+                {
+                    "name": "Defense",
+                    "value": 50
+                },
+                {
+                    "name": "Speed",
+                    "value": 70
+                }
+            ],
+            "type": "Bug, Flying",
+            "weight": 320
+        },
+        {
+            "name": "Weedle",
+            "ability": "Shield Dust, Run Away",
+            "height": 3,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 40
+                },
+                {
+                    "name": "Attack",
+                    "value": 35
+                },
+                {
+                    "name": "Defense",
+                    "value": 30
+                },
+                {
+                    "name": "Speed",
+                    "value": 50
+                }
+            ],
+            "type": "Bug, Poison",
+            "weight": 32
+        },
+        {
+            "name": "Kakuna",
+            "ability": "Shed Skin",
+            "height": 6,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 45
+                },
+                {
+                    "name": "Attack",
+                    "value": 25
+                },
+                {
+                    "name": "Defense",
+                    "value": 50
+                },
+                {
+                    "name": "Speed",
+                    "value": 35
+                }
+            ],
+            "type": "Bug, Poison",
+            "weight": 100
+        },
+        {
+            "name": "Beedrill",
+            "ability": "Swarm, Sniper",
+            "height": 10,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 65
+                },
+                {
+                    "name": "Attack",
+                    "value": 90
+                },
+                {
+                    "name": "Defense",
+                    "value": 40
+                },
+                {
+                    "name": "Speed",
+                    "value": 75
+                }
+            ],
+            "type": "Bug, Poison",
+            "weight": 295
+        },
+        {
+            "name": "Pidgey",
+            "ability": "Keen Eye, Tangled Feet, Big Pecks",
+            "height": 3,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 40
+                },
+                {
+                    "name": "Attack",
+                    "value": 45
+                },
+                {
+                    "name": "Defense",
+                    "value": 40
+                },
+                {
+                    "name": "Speed",
+                    "value": 56
+                }
+            ],
+            "type": "Normal, Flying",
+            "weight": 18
+        },
+        {
+            "name": "Pidgeotto",
+            "ability": "Keen Eye, Tangled Feet, Big Pecks",
+            "height": 11,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 63
+                },
+                {
+                    "name": "Attack",
+                    "value": 60
+                },
+                {
+                    "name": "Defense",
+                    "value": 55
+                },
+                {
+                    "name": "Speed",
+                    "value": 71
+                }
+            ],
+            "type": "Normal, Flying",
+            "weight": 300
+        },
+        {
+            "name": "Pidgeot",
+            "ability": "Keen Eye, Tangled Feet, Big Pecks",
+            "height": 15,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 83
+                },
+                {
+                    "name": "Attack",
+                    "value": 80
+                },
+                {
+                    "name": "Defense",
+                    "value": 75
+                },
+                {
+                    "name": "Speed",
+                    "value": 100
+                }
+            ],
+            "type": "Normal, Flying",
+            "weight": 395
+        },
+        {
+            "name": "Rattata",
+            "ability": "Run Away, Guts, Hustle",
+            "height": 3,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 30
+                },
+                {
+                    "name": "Attack",
+                    "value": 56
+                },
+                {
+                    "name": "Defense",
+                    "value": 35
+                },
+                {
+                    "name": "Speed",
+                    "value": 72
+                }
+            ],
+            "type": "Normal",
+            "weight": 35
+        },
+        {
+            "name": "Raticate",
+            "ability": "Run Away, Guts, Hustle",
+            "height": 7,
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+            "stats": [
+                {
+                    "name": "HP",
+                    "value": 55
+                },
+                {
+                    "name": "Attack",
+                    "value": 81
+                },
+                {
+                    "name": "Defense",
+                    "value": 60
+                },
+                {
+                    "name": "Speed",
+                    "value": 97
+                }
+            ],
+            "type": "Normal",
+            "weight": 105
+        }
+    ]
+}

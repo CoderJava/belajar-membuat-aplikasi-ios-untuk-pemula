@@ -28,12 +28,12 @@ class DetailViewController: UIViewController {
         if let result = pokemon {
             pokemonName.text = result.name
             pokemonType.text = result.type
-            pokemonImageView.image = result.image
+            pokemonImageView.image = UIImage(named: result.name)
             
             pokemonHp.text = String(result.stats[0].value)
             pokemonAttack.text = String(result.stats[1].value)
             pokemonDefense.text = String(result.stats[2].value)
-            pokemonSpeed.text = String(result.stats[5].value)
+            pokemonSpeed.text = String(result.stats[3].value)
             
             pokemonAbility.text = result.ability
             pokemonHeight.text = "\(result.height) dm"
