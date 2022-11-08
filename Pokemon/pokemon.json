@@ -4,7 +4,6 @@
             "name": "Bulbasaur",
             "ability": "Overgrow, Chlorophyll",
             "height": 7,
-            "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
             "stats": [
                 {
                     "name": "HP",
@@ -30,7 +29,6 @@
             "name": "Ivysaur",
             "ability": "Overgrow, Chlorophyll",
             "height": 10,
-            "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
             "stats": [
                 {
                     "name": "HP",
@@ -56,7 +54,6 @@
             "name": "Venusaur",
             "ability": "Overgrow, Chlorophyll",
             "height": 20,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
             "stats": [
                 {
                     "name": "HP",
@@ -82,7 +79,6 @@
             "name": "Charmander",
             "ability": "Blaze, Solar Power",
             "height": 6,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
             "stats": [
                 {
                     "name": "HP",
@@ -108,7 +104,6 @@
             "name": "Charmeleon",
             "ability": "Blaze, Solar Power",
             "height": 11,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
             "stats": [
                 {
                     "name": "HP",
@@ -134,7 +129,6 @@
             "name": "Charizard",
             "ability": "Blaze, Solar Power",
             "height": 16,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
             "stats": [
                 {
                     "name": "HP",
@@ -160,7 +154,6 @@
             "name": "Squirtle",
             "ability": "Torrent, Rain Dish",
             "height": 5,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
             "stats": [
                 {
                     "name": "HP",
@@ -186,7 +179,6 @@
             "name": "Wartortle",
             "ability": "Torrent, Rain Dish",
             "height": 10,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
             "stats": [
                 {
                     "name": "HP",
@@ -212,7 +204,6 @@
             "name": "Blastoise",
             "ability": "Torrent, Rain Dish",
             "height": 16,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
             "stats": [
                 {
                     "name": "HP",
@@ -238,7 +229,6 @@
             "name": "Caterpie",
             "ability": "Shield Dust, Run Away",
             "height": 3,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
             "stats": [
                 {
                     "name": "HP",
@@ -264,7 +254,6 @@
             "name": "Metapod",
             "ability": "Shed Skin",
             "height": 7,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
             "stats": [
                 {
                     "name": "HP",
@@ -290,7 +279,6 @@
             "name": "Butterfree",
             "ability": "Compound Eyes",
             "height": 11,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
             "stats": [
                 {
                     "name": "HP",
@@ -316,7 +304,6 @@
             "name": "Weedle",
             "ability": "Shield Dust, Run Away",
             "height": 3,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
             "stats": [
                 {
                     "name": "HP",
@@ -342,7 +329,6 @@
             "name": "Kakuna",
             "ability": "Shed Skin",
             "height": 6,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
             "stats": [
                 {
                     "name": "HP",
@@ -368,7 +354,6 @@
             "name": "Beedrill",
             "ability": "Swarm, Sniper",
             "height": 10,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
             "stats": [
                 {
                     "name": "HP",
@@ -394,7 +379,6 @@
             "name": "Pidgey",
             "ability": "Keen Eye, Tangled Feet, Big Pecks",
             "height": 3,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
             "stats": [
                 {
                     "name": "HP",
@@ -420,7 +404,6 @@
             "name": "Pidgeotto",
             "ability": "Keen Eye, Tangled Feet, Big Pecks",
             "height": 11,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
             "stats": [
                 {
                     "name": "HP",
@@ -446,7 +429,6 @@
             "name": "Pidgeot",
             "ability": "Keen Eye, Tangled Feet, Big Pecks",
             "height": 15,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
             "stats": [
                 {
                     "name": "HP",
@@ -472,7 +454,6 @@
             "name": "Rattata",
             "ability": "Run Away, Guts, Hustle",
             "height": 3,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
             "stats": [
                 {
                     "name": "HP",
@@ -498,7 +479,6 @@
             "name": "Raticate",
             "ability": "Run Away, Guts, Hustle",
             "height": 7,
-            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
             "stats": [
                 {
                     "name": "HP",
